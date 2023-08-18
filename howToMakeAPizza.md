@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> main
 <h1>How to Make a Pizza</h1>
 <h3>in spanish (español ve)</h3>
 
@@ -47,7 +50,10 @@ Estirar la masa:
 Si estás usando masa comprada, sigue las instrucciones del paquete para estirarla en una bandeja para hornear o piedra de pizza. Si estás haciendo tu propia masa, estírala en la forma deseada.
 </li>
 </ul>
+<<<<<<< HEAD
 
+=======
+>>>>>>> main
 </li>
 
 
@@ -61,14 +67,22 @@ Agregar la salsa:
 Extiende una capa uniforme de salsa de pizza sobre la masa, dejando un pequeño borde alrededor.
 </li>
 </ul>
+<<<<<<< HEAD
+=======
+</li>
+
+>>>>>>> main
 
 </li>
 
 
 
+<<<<<<< HEAD
 </li>
 
 
+=======
+>>>>>>> main
 <li>
 Añadir los ingredientes:
 <ul>
@@ -80,6 +94,10 @@ Agrega el maíz sobre el queso, distribuyéndolo de manera uniforme.
 </li>
 </ul>
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> main
 </li>
 <li>
 Condimentar:
@@ -89,7 +107,10 @@ Espolvorea orégano y cualquier otro condimento que prefieras sobre la pizza par
 </li>
 </ul>
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> main
 </li>
 <li>
 Hornear:
@@ -106,9 +127,18 @@ Una vez que la pizza esté lista, sácala del horno y déjala enfriar un poco an
 </li>
 </ul>
 
+<<<<<<< HEAD
 </li>
 </ol>
+=======
+>>>>>>> main
 
 </li>
 </ol>
 
+<<<<<<< HEAD
+=======
+
+</li>
+</ol>
+>>>>>>> main
