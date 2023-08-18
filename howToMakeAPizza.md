@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <h1>How to Make a Pizza</h1>
 <h3>in spanish (español ve)</h3>
 
@@ -18,7 +17,6 @@
 
 
 <h4>Instrucciones</h4>
-=======
 <h4>Como Hacer Pizza</h4>
 <h5> Ingredientes</h5>
 <ul> 
@@ -33,7 +31,6 @@
 
 <h5> Preparación</h5>
 
->>>>>>> a78b93a4af06a06f9be527713546b40ceecc4a1b
 <ol>
 <li>
 Preparación previa:
@@ -42,10 +39,6 @@ Preparación previa:
 <li>Si estás utilizando maíz enlatado, escúrrelo y enjuágalo bien. Si estás utilizando maíz fresco, asegúrate de cocinarlo antes de usarlo en la pizza.</li>
 </ul>
 
-<<<<<<< HEAD
-=======
-
->>>>>>> a78b93a4af06a06f9be527713546b40ceecc4a1b
 <li>
 Estirar la masa:
 <ul>
@@ -53,8 +46,6 @@ Estirar la masa:
 Si estás usando masa comprada, sigue las instrucciones del paquete para estirarla en una bandeja para hornear o piedra de pizza. Si estás haciendo tu propia masa, estírala en la forma deseada.
 </li>
 </ul>
-
-<<<<<<< HEAD
 </li>
 
 =======
@@ -62,7 +53,6 @@ Si estás usando masa comprada, sigue las instrucciones del paquete para estirar
 </li>
 
 
->>>>>>> a78b93a4af06a06f9be527713546b40ceecc4a1b
 <li>
 Agregar la salsa:
 <ul>
@@ -70,19 +60,13 @@ Agregar la salsa:
 Extiende una capa uniforme de salsa de pizza sobre la masa, dejando un pequeño borde alrededor.
 </li>
 </ul>
-
-<<<<<<< HEAD
 </li>
 
-
-=======
 
 </li>
 
 
 
-
->>>>>>> a78b93a4af06a06f9be527713546b40ceecc4a1b
 <li>
 Añadir los ingredientes:
 <ul>
@@ -94,10 +78,7 @@ Agrega el maíz sobre el queso, distribuyéndolo de manera uniforme.
 </li>
 </ul>
 
-<<<<<<< HEAD
-=======
 
->>>>>>> a78b93a4af06a06f9be527713546b40ceecc4a1b
 </li>
 <li>
 Condimentar:
@@ -107,10 +88,6 @@ Espolvorea orégano y cualquier otro condimento que prefieras sobre la pizza par
 </li>
 </ul>
 
-<<<<<<< HEAD
-=======
-
->>>>>>> a78b93a4af06a06f9be527713546b40ceecc4a1b
 </li>
 <li>
 Hornear:
@@ -127,12 +104,10 @@ Una vez que la pizza esté lista, sácala del horno y déjala enfriar un poco an
 </li>
 </ul>
 
-<<<<<<< HEAD
-</li>
-</ol>
-=======
 
 </li>
 </ol>
 
->>>>>>> a78b93a4af06a06f9be527713546b40ceecc4a1b
+
+</li>
+</ol>
