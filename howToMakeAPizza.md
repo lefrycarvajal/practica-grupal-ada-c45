@@ -26,7 +26,61 @@ Preparación previa:
 </ul>
 
 <li>
+Estirar la masa:
+<ul>
+<li>
+Si estás usando masa comprada, sigue las instrucciones del paquete para estirarla en una bandeja para hornear o piedra de pizza. Si estás haciendo tu propia masa, estírala en la forma deseada.
+</li>
+</ul>
 
 </li>
+
+<li>
+Agregar la salsa:
+<ul>
+<li>
+Extiende una capa uniforme de salsa de pizza sobre la masa, dejando un pequeño borde alrededor.
+</li>
+</ul>
+
+</li>
+
+
+<li>
+Añadir los ingredientes:
+<ul>
+<li>
+Espolvorea una capa de queso mozzarella rallado sobre la salsa.
+</li>
+<li>
+Agrega el maíz sobre el queso, distribuyéndolo de manera uniforme.
+</li>
+</ul>
+
+</li>
+<li>
+Condimentar:
+<ul>
+<li>
+Espolvorea orégano y cualquier otro condimento que prefieras sobre la pizza para realzar el sabor.
+</li>
+</ul>
+
+</li>
+<li>
+Hornear:
+<ul>
+<li>
+Coloca la pizza en el horno precalentado y hornea según las instrucciones de la masa o hasta que el queso esté derretido y burbujeante, y la masa esté dorada y cocida.
+</li>
+</ul>
+<li>
+Servir:
+<ul>
+<li>
+Una vez que la pizza esté lista, sácala del horno y déjala enfriar un poco antes de cortarla en porciones.
+</li>
+</ul>
+
 </li>
 </ol>
